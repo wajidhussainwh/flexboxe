@@ -1,0 +1,49 @@
+.buttondiv{
+    
+    
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    
+
+    
+}
+.novbar{
+    background-color: red;
+    align-items: center;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 10px;
+    
+    
+}
+ul{
+
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+}
+
+
+
+
+
+ul li a{
+ text-decoration: none;
+ 
+ color: white;
+
+
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border: none;
+    box-shadow:3px 3px 2px black ;
+}
